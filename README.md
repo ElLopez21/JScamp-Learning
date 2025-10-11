@@ -56,8 +56,21 @@ Hey! I'm Erik Lopez, and I'm a software developer working through Midudev's JSca
 
 ---
 
+### Week 2: Initial Page
+
 #### Day 2 - October 7, 2025
-*Update coming...*
+**Focus:** HTML Semantic Elements & CSS Styling
+
+
+**What I accomplished:**
+- Built a responsive navigation bar, feature cards, and search form using semantic HTML5 elements
+- Practiced CSS pseudo-class (specifically `:nth-child()`)
+
+
+**Time invested:** 2 hours
+**Notes:**
+- Review CSS due to certain selectors and its properties aren't being used
+- Add certain tags for those selectors to work properly (Done on purpose? No problem, it can be easily applied)
 
 ---
 
@@ -68,7 +81,7 @@ Capturing important concepts and patterns as I progress through the bootcamp.
 <details>
 <summary><strong>Week 1 - Foundation & Setup</strong></summary>
 
-*Updates coming as I learn...*
+- `<header></header>` and `<footer>></footer>` aren't just to be used on top and bottom of the body but can be applied inside the section tags to specifically identify each part's importance.
 
 </details>
 
