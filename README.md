@@ -81,7 +81,7 @@ Capturing important concepts and patterns as I progress through the bootcamp.
 <details>
 <summary><strong>Week 1 - Foundation & Setup</strong></summary>
 
-- `<header></header>` and `<footer>></footer>` aren't just to be used on top and bottom of the body but can be applied inside the section tags to specifically identify each part's importance.
+- `<header></header>` and `<footer></footer>` aren't just to be used on top and bottom of the body but can be applied inside the section tags to specifically identify each part's importance.
 
 </details>
 
